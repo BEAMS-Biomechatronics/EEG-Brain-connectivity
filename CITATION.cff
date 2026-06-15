@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper and the Zenodo record:"
+title: "Code for: EEG Brain Connectivity Methods for Seizure-related Disorders"
+authors:
+  - family-names: "Cottin"
+    given-names: "Lise"
+  - family-names: "Damien"
+    given-names: "Charlotte"
+  - family-names: "Anzalone"
+    given-names: "Luca"
+  - family-names: "Aeby"
+    given-names: "Alec"
+  - family-names: "Gaspard"
+    given-names: "Nicolas"
+  - family-names: "Nonclercq"
+    given-names: "Antoine"
+doi: 10.1016/j.neuroimage.2026.122020 # DOI de l'article
+repository-code: "https://github.com/BEAMS-Biomechatronics/EEG-Brain-Connectivity"
+url: "https://doi.org/10.5281/zenodo.19782781" # DOI Zenodo une fois généré
+license: MIT
+version: 1.0.0
+date-released: 2025-11-11
+preferred-citation:
+  type: article
+  title: "EEG Brain Connectivity Methods for Seizure-related Disorders"
+  authors:
+    - family-names: "Cottin"
+      given-names: "Lise"
+    - family-names: "Damien"
+      given-names: "Charlotte"
+    - family-names: "Anzalone"
+      given-names: "Luca"
+    - family-names: "Aeby"
+      given-names: "Alec"
+    - family-names: "Gaspard"
+      given-names: "Nicolas"
+    - family-names: "Nonclercq"
+      given-names: "Antoine"
+  doi: 10.1016/j.neuroimage.2026.122020
+  journal: "NeuroImage"
+  volume = 338
+  pages = 122020
+  issn = 1053-8119
+  year: 2026
