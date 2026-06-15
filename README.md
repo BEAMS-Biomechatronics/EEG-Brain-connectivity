@@ -1,7 +1,12 @@
 # Brain Connectivity Analysis in MATLAB
 ***This code is for research purposes only.***
 
-This repository contains the code associated with the publication: *paper to be published*.
+This repository contains the code associated with the publication: 
+
+> **Cottin, L., Damien, C., Anzalone, L., Aeby, A., Gaspard, N., & Nonclercq, A. (2026).**
+> *EEG Brain Connectivity Methods for Seizure-related Disorders.*
+> NeuroImage, 338.
+> https://doi.org/10.1016/j.neuroimage.2026.122020
 
 ## Overview
 
@@ -67,14 +72,19 @@ Lise Cottin
 If you use this algorithm for a publication (in a journal, in a conference, etc.), please cite the related publications (see below). The license attached to this toolbox is GPL v2, see https://www.gnu.org/licenses/gpl-2.0.txt. From https://www.gnu.org/licenses/gpl-2.0.html, it implies: This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.
 
 ## Citation
-If you use this code or data in your research, please cite the following paper: *paper to be published*.
+If you use this code or data in your research, please cite the following paper:
+
+> **Cottin, L., Damien, C., Anzalone, L., Aeby, A., Gaspard, N., & Nonclercq, A. (2026).**
+> *EEG Brain Connectivity Methods for Seizure-related Disorders.*
+> NeuroImage, 338.
+> https://doi.org/10.1016/j.neuroimage.2026.122020
 
 and reference the archived version of the code:
 
 > **Cottin, L., Damien, C., Anzalone, L., Aeby, A., Gaspard, N., & Nonclercq, A. (2026).**  
 > *Code for: EEG Functional Connectivity Methods for Seizure-related Disorders* [Computer software].  
 > Zenodo.  
-> [![DOI](https://zenodo.org/badge/1105454056.svg)](https://doi.org/10.5281/zenodo.17779210) 
+> [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19782781.svg)](https://doi.org/10.5281/zenodo.19782781)
 
 A `CITATION.cff` file is included in this repository.  
 Click **“Cite this repository”** on the right sidebar of the GitHub page to automatically generate a BibTeX or APA citation.
@@ -82,12 +92,24 @@ Click **“Cite this repository”** on the right sidebar of the GitHub page to 
 ### BibTeX
 
 ```bibtex
+@article{COTTIN2026122020,
+  title = {EEG functional connectivity methods for seizure-related disorders},
+  journal = {NeuroImage},
+  volume = {338},
+  pages = {122020},
+  year = {2026},
+  issn = {1053-8119},
+  doi = {https://doi.org/10.1016/j.neuroimage.2026.122020},
+  url = {https://www.sciencedirect.com/science/article/pii/S1053811926003356},
+  author = {Lise Cottin and Charlotte Damien and Luca Anzalone and Alec Aeby and Nicolas Gaspard and Antoine Nonclercq},
+  keywords = {Functional connectivity, EEG, Graph theory, Intensive care unit, Self-limited epilepsy with centro-temporal spikes}
+}
 
-@software{Cottin2025CodeEEGConnectivity,
+@software{Cottin2026CodeEEGConnectivity,
   author    = {Lise Cottin and Charlotte Damien and Luca Anzalone and Alec Aeby and Nicolas Gaspard and Antoine Nonclercq},
   title     = {Code for: EEG Functional Connectivity Methods for Seizure-related Disorders},
   year      = {2026},
-  doi       = {10.5281/zenodo.17779211},
+  doi       = {https://doi.org/10.5281/zenodo.19782781},
   url       = {https://github.com/username/repo},
-  version   = {0}
+  version   = {1}
 }
